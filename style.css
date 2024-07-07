@@ -1,0 +1,67 @@
+/* targets header */
+
+.title {
+  text-align: center;
+  color: blueviolet;
+}
+
+/* targets opening paragraph text */
+
+.opener {
+  color: #fff;
+  text-align: center;
+}
+
+.flex-container {
+
+  border: 2px groove cornflowerblue;
+  flex-direction: row;
+  justify-content: center;
+  display: flex;
+  user-select: auto;
+
+ 
+}
+
+.flex-column {
+
+  border: 2px groove cornflowerblue;
+  flex-direction: row;
+  justify-content: center;
+  display: flex;
+
+
+
+}
+
+.grid-layout {
+
+  border: 2px groove cornflowerblue;
+  flex-direction: row;
+  justify-content: center;
+  display: flex;
+
+
+}
+
+
+section {
+  display: flex;
+  flex-direction: row;
+
+}
+
+
+body {
+  background-color: rgb(54, 57, 58);
+}
+
+div {
+  background-color: rgb(255, 0, 255);
+  color: white;
+}
+
+h1 {
+  background-color: rgb(54, 57, 58);
+  color: white;
+}
